@@ -1,0 +1,11 @@
+m2 -- Odd modified Mathieu function of the second kind and its derivative.
+
+Spheroidal wave functions
+-------------------------
+
+.. autosummary::
+   :toctree: generated/
+
+   pro_ang1   -- Prolate spheroidal angular function of the first kind and its derivative.
+   pro_rad1   -- Prolate spheroidal radial function of the first kind and its derivative.
+   pro_rad2   -- Prolate spheroidal radial funct

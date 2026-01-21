@@ -1,0 +1,4 @@
+系统技术规范摘要：
+系统主要采用 Java Spring Boot 架构。
+数据库使用 MySQL。
+接口采用 RESTful 风格。
